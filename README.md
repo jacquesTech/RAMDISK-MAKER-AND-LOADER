@@ -23,7 +23,7 @@ bash Ramdisk_Loader.sh -d <device>
 Note: you need libirecovery
 
 # It should work with all limera1n/checkm8 devices
-Let me know on twitter (@Ralph0045) if it doesn't work on your device
+Let me know on telegram (@gsmadjaa05) if it doesn't work on your device
 
 # Credits/Thanks to
 - @iH8sn0w for iBoot32Patcher </br>
